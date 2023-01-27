@@ -7,4 +7,4 @@ This application is designed to be used to add and delete different levels of em
 
 ## Live Deployed Link
 
-https://wixom78666.github.io/notetake/
+https://wixom78666.github.io/employee_tracking/
